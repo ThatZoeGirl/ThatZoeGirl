@@ -7,7 +7,8 @@ Modularity is also my one of my favorite concepts. You'll rarely see me make som
 
 ## Languages
 JavaScript(Node.JS) is currently my primairy language which i'm using for various discord bots.
-But other than that i also use python for some automated tasks and C++ for microcontroller related projects.
+But other than that i also use python for some automated tasks.
+I also use c++ with raspberry products, just a zero 2W but i could expand my arsenal if needed.
 
 ## Skillz
 My programming skills are far from professional, but i'm also not a noobie.
